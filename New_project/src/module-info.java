@@ -4,5 +4,5 @@
 /**
  * 
  */
-module shopping_app {
+module New_project {
 }
